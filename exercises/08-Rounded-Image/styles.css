@@ -1,6 +1,9 @@
 body {
 	background: #bdbdbd;
+	width: 450px;
+	height: 250px;
 }
 .rounded {
 	border-radius: 100%;
+	object-position: center;
 }

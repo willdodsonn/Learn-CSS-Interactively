@@ -1,7 +1,17 @@
 .orange-btn {
-	/*your code here*/
+	color: white;
+	padding: 10px;
+	border-radius: 4px;
+	background-color: rgb(226, 149, 6);
+	text-decoration: none;
+	font-family: "Courier New", Courier, monospace;
 }
 
 .orange-btn:hover {
-	/*YOUR CODE HERE FOR THE HOVER STATE*/
+	color: white;
+	padding: 10px;
+	border-radius: 4px;
+	background-color: rgb(175, 105, 20);
+	text-decoration: none;
+	font-family: "Courier New", Courier, monospace;
 }

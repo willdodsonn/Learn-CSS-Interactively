@@ -1,1 +1,27 @@
 /* add your styles here */
+body {
+	background-image: url(https://3000-blue-guanaco-8gpm9s0r.ws-us25.gitpod.io/.learn/assets/background-vertical.jpg?raw=true);
+	background-repeat: repeat-y;
+	font-family: "Times New Roman", Times, serif;
+	padding-left: 20px;
+	width: 450px;
+	height: 250px;
+}
+
+h1 {
+	color: red;
+	font-family: "Courier New", Courier, monospace;
+	text-align: center;
+}
+
+h2 {
+	text-decoration: underline;
+}
+
+#id1 {
+	background-color: rgba(0, 0, 0, 0.2);
+	padding: 5px 5px 5px 5px;
+}
+a:hover {
+	color: green;
+}

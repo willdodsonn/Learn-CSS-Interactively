@@ -1,4 +1,13 @@
 /** Insert your code here **/
+body ul li {
+	color: red !important;
+}
+ol li:nth-child(2) {
+	background-color: green;
+}
+table tr:nth-child(odd) {
+	background-color: yellow;
+}
 
 /*********** READ ONLY BLOCK ******
 You CAN NOT UPDATE anything from here on,
